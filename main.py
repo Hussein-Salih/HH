@@ -92,7 +92,6 @@ while chois != 0:
         else:
             print("The lists are equal= False")
 
-    print("test")
     elif chois == 6:
         def print_factors(x):  # define (x) as the number to show the factors for
             print("The factors of", x, "are:")
